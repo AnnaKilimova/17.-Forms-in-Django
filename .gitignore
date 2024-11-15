@@ -1,0 +1,1 @@
+# Virtual environment env/ venv/ .venv/ # Python *.pyc __pycache__/ # Django migrations */migrations/ # Database *.sqlite3 # Static and media files staticfiles/ media/ # IDE files .idea/ .vscode/ # Git files .DS_Store
